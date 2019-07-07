@@ -13,7 +13,7 @@
 
 ## Uso
 ``` shell
-git clone https://github.com/MatheusCTeixeira/Sorting-Algorithms
+git clone https://github.com/MatheusCTeixeira/Sorting-Algorithms.git
 make
 ```
 
